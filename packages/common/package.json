@@ -44,7 +44,7 @@
     "lodash": "^4.17.21",
     "pino-pretty": "^5.1.2",
     "socket-io-event-context": "^1.0.2",
-    "ts-json-schema-generator": "^0.97.0",
+    "ts-json-schema-generator": "^2.1.0",
     "typeorm": "^0.2.37",
     "virtual-proxy-wrapper": "^1.0.8"
   },
