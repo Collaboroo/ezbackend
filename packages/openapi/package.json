@@ -27,7 +27,7 @@
     "ts-jest": "^27.0.4"
   },
   "dependencies": {
-    "fastify-swagger": "^4.12.1",
+    "fastify-swagger": "^5.2.0",
     "open": "^8.2.1"
   },
   "gitHead": "83198320ccc06a87dd0a66a196086c5553de7389"
