@@ -40,7 +40,7 @@
     "fastify-multipart": "^5.2.1",
     "fastify-request-context": "^2.2.0",
     "fastify-socket.io": "^2.0.1",
-    "fastify-static": "^4.5.0",
+    "fastify-static": "^4.7.0",
     "lodash": "^4.17.21",
     "pino-pretty": "^5.1.2",
     "socket-io-event-context": "^1.0.2",
