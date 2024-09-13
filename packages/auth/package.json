@@ -40,7 +40,7 @@
     "fastify": "^3.20.2",
     "fastify-passport": "^0.4.3",
     "fastify-secure-session": "^2.3.1",
-    "fastify-static": "^4.4.2",
+    "fastify-static": "^4.7.0",
     "passport-custom": "^1.1.1",
     "passport-google-oauth20": "^2.0.0",
     "typeorm": "^0.2.37",
