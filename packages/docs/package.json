@@ -17,7 +17,7 @@
     "@docusaurus/core": "^2.0.0-beta.9",
     "@docusaurus/plugin-google-analytics": "^2.0.0-beta.6",
     "@docusaurus/plugin-google-gtag": "^2.0.0-beta.6",
-    "@docusaurus/preset-classic": "^2.0.0-beta.9",
+    "@docusaurus/preset-classic": "^3.0.0",
     "@docusaurus/theme-search-algolia": "^2.0.0-beta.6",
     "@heroicons/react": "^1.0.4",
     "@mdx-js/react": "^1.6.21",
@@ -32,7 +32,7 @@
     "clsx": "^1.1.1",
     "docusaurus-plugin-typedoc": "^0.16.3",
     "file-loader": "^6.2.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.5.0",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-compare-image": "^3.1.0",
@@ -69,7 +69,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.5.0",
     "postcss-cli": "^9.0.0"
   }
 }
